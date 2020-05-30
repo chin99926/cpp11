@@ -1,0 +1,13 @@
+# ignore all files
+*
+
+# unignore all files with extensions
+!*.*
+
+# unignore all directories
+!*/
+
+########## above ignores all files without extensions ##########
+
+# ignore objext files
+*.o
