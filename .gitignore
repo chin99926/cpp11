@@ -12,3 +12,6 @@
 # ignore objext files
 *.o
 *.exe
+
+# ignore .vscode setups
+.vscode/*
